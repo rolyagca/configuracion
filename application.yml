@@ -1,1 +1,6 @@
-lo que sea
+grupo: "Academia"
+
+aplicacion:
+  version: 1.0
+  pais: "mx"
+  lenguaje: "es-mx"
