@@ -5,3 +5,11 @@ aplicacion:
   pais: "mx"
   lenguaje: "es-mx"
   user: "Rolando"
+
+eureka:
+  client:
+    seriveUrl:
+      defaultZone: http://localhost:8761/eureka/
+    healtcheck:
+      enable: false
+    
